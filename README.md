@@ -1,6 +1,6 @@
 # relay
 
-A new Flutter project.
+Relay is a chat app for interacting with your AI chatbots
 
 ## Getting Started
 
